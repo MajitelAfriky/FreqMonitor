@@ -1,0 +1,11 @@
+# Ignorovat virtuální prostředí
+.venv/
+venv/
+env/
+
+# Ignorovat skryté soubory a složky, které si tvoří sám Python
+__pycache__/
+*.pyc
+
+# (Volitelné) Ignorovat osobní nastavení VS Code
+.vscode/
